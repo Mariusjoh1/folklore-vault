@@ -34,3 +34,51 @@ When the same craft technique appears across multiple stories, it is logged here
 **What to watch for:** Final speeches or last words where the expected recrimination is withheld. Single-word or single-clause farewells at the site of maximum loss. Any construction where the departing character takes on shared fault they did not earn.
 
 ---
+
+## The Irreversible Small Act
+**First seen:** Persephone and the Pomegranate
+**Also in:** Bluebeard (the stained key), Orpheus (the look-back)
+
+A tiny action — eating a seed, opening a door, turning around — produces permanent, total consequence. The disproportion between the act and its consequence is deliberate. The smallness of the act makes the permanence of the consequence feel unjust, which is precisely the effect the story is after. In Persephone, the act is forced and secret. In Bluebeard, it is freely chosen. In Orpheus, it is motivated by love. The mechanism is identical: once done, it cannot be undone.
+
+**What to watch for:** Any story where the hinge-point is a small physical action. Seeds. Keys. Glances. The proportion of the consequence to the act is a measure of the story's claim about how the world works.
+
+---
+
+## Evidence That Cannot Be Erased
+**First seen:** Bluebeard (the stained key)
+**Also in:** Persephone (the eaten seed cannot be untasted)
+
+The proof of transgression is permanent and automatic. In Bluebeard, the wife rubs the key but the blood returns. In Persephone, the eaten seed cannot be untasted regardless of how it was eaten. Both stories use this to make discovery inevitable from the moment of the act. There is no possibility of concealment — only the waiting.
+
+**What to watch for:** Stories where physical evidence of transgression is self-renewing or indelible. The impossibility of concealment removes agency from the transgressor after the fact.
+
+---
+
+## Proportional Justice as the Source of Horror
+**First seen:** Oedipus Rex
+**Also in:** The Pied Piper of Hamelin
+
+The punishment fits the exact shape of the crime. Oedipus who would not see is blinded. The town that refused to pay in gold pays in children. The precision of the fit is the horror — not the punishment itself, but the sense that the universe measured the crime and cut the consequence to match.
+
+**What to watch for:** Any story where the punishment mirrors the crime structurally, not just in severity. The precise fit signals a cosmic law being enforced.
+
+---
+
+## The Contract Retroactively Called a Joke
+**First seen:** The Pied Piper of Hamelin
+
+The powerful party denies the validity of an agreement after the weaker party has fulfilled their side. Not simple refusal but rewriting: "as you very well know, was in joke" projects prior shared understanding onto the other party, denying even the right to feel wronged. This activates the listener's sense of proportion more reliably than outright theft would.
+
+**What to watch for:** Any story where an agreement is undone through reinterpretation rather than acknowledged breach.
+
+---
+
+## The Ambiguous Destination
+**First seen:** The Pied Piper of Hamelin (the lame child's testimony)
+
+The fate of those taken or lost is described as possibly better than where they came from. This converts punishment into ambiguity and ambiguity into grief. If the punishment is clearly terrible, the listener resolves the emotion through pity. If it might be a gift, the emotion has nowhere to land.
+
+**What to watch for:** Stories where the destination of the lost is described through someone who almost reached it. The near-miss perspective is the mechanism.
+
+---
